@@ -1,7 +1,4 @@
-<p align="center">
-<h1>Hi 👋, I'm <a href="https://milesbb.tech">Miles</a></h1>
-
-</p>
+<h1 align="center">Hi 👋, I'm <a href="https://milesbb.tech">Miles</a></h1>
 
 - 🔭 I’m currently looking for work
 - 📄 I’m currently working with JavaScript, React.js, Node.js, MongoDB, PostgreSQL
