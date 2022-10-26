@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Hi 👋, I'm [Miles](https://milesbb.tech)</h1>
+<h1>Hi 👋, I'm <a href="https://milesbb.tech">Miles</a></h1>
 
 </p>
 
