@@ -1,4 +1,7 @@
+<p align="center">
 ### Hi 👋, I'm [Miles](https://milesbb.tech)
+
+</p>
 
 - 🔭 I’m currently looking for work
 - 📄 I’m currently working with JavaScript, React.js, Node.js, MongoDB, PostgreSQL
