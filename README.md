@@ -8,5 +8,5 @@ Fullstack developer currently studying at [EPICODE/Strive School](https://epicod
 - 📄 I’m currently working with **JavaScript**, **React.js**, **Node.js**, **MongoDB**, **PostgreSQL**, **Redux**, **Three.js**, **Bootstrap**, **CSS**, **HTML**
 - 📄 Familiar with deploying on **Netlify**, **Cyclic**, **Github Pages**, **Heroku**
 - 🌱 I'm currently learning **React Native** and **Java**
-- ✨ Especially interested in Full-stack Web and Mobile Design, Meditech, and Fintech.
+- ✨ Especially interested in Full-stack Web and Mobile Development, Meditech, and Fintech.
 - 📫 You can reach me at [my website](https://milesbb.tech) or on [LinkedIn](https://www.linkedin.com/in/milesbaileybraendgaard/)!
