@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://milesbb.tech">Miles</a></h1> -->
-<h1 align="center"><img height="150" alt="hello msg" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667252496/globechat/newierrrrrgif_gofmof.gif" /></h1>
+<h1 align="center"><img height="130" alt="hello msg" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667252496/globechat/newierrrrrgif_gofmof.gif" /></h1>
 
 <p align="center">Software Developer/Full-Stack Engineer</p>
 
