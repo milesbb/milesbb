@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://milesbb.tech">Miles</a></h1>
 
-<p align="center">Software Developer/Full-Stack Developer</p>
+<p align="center">Software Developer/Full-Stack Engineer</p>
 
 Fullstack developer currently studying at [EPICODE/Strive School](https://epicode.com/), constantly learning and developing myself. Background in biomechanics, computer science, engineering, and the arts.
 
