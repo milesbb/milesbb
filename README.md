@@ -5,7 +5,7 @@
 Fullstack developer currently studying at [EPICODE/Strive School](https://epicode.com/), constantly learning and developing myself. Background in biomechanics, computer science, engineering, and the arts.
 
 - 🔭 I’m currently looking for work
-- 📄 I’m currently working with **JavaScript**, **React.js**, **Node.js**, **MongoDB**, **PostgreSQL**, **Redux**, **Three.js**, **Bootstrap**, **CSS**, **HTML**
+- ⚙️ I’m currently working with **JavaScript**, **React.js**, **Node.js**, **MongoDB**, **PostgreSQL**, **Redux**, **Three.js**, **Bootstrap**, **CSS**, **HTML**
 - 📄 Familiar with deploying on **Netlify**, **Cyclic**, **Github Pages**, **Heroku**
 - 🌱 I'm currently learning **React Native** and **Java**
 - ✨ Especially interested in Full-stack Web and Mobile Development, Meditech, and Fintech.
