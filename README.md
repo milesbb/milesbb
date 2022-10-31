@@ -11,4 +11,4 @@ Fullstack developer currently studying at [EPICODE/Strive School](https://epicod
 - ✨ Especially interested in Full-stack Web and Mobile Development, Meditech, and Fintech.
 - 📫 You can reach me at [my website](https://milesbb.tech) or on [LinkedIn](https://www.linkedin.com/in/milesbaileybraendgaard/)!
 
-[![Past Month Activity](https://activity-graph.herokuapp.com/graph?username=milesbb&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Past Month Activity](https://activity-graph.herokuapp.com/graph?username=milesbb&theme=react-dark&custom_title=Past%20Month%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
