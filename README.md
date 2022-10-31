@@ -3,7 +3,7 @@
 
 <p align="center">Software Developer/Full-Stack Engineer</p>
 
-Fullstack developer currently studying at [EPICODE/Strive School](https://epicode.com/), constantly learning and developing myself. Have been coding since middle school and raring to contribute the skills I've built to my own and other's open source projects. Background in biomechanics, computer science, engineering, and the arts.
+Fullstack developer currently studying at [EPICODE/Strive School](https://epicode.com/), constantly learning and developing myself. Have been coding since middle school and raring to learn more and contribute the skills I've built over the years to my own and other's open source projects. Background in biomechanics, computer science, engineering, and the arts.
 
 - 🔭 I’m currently looking for work
 - ⚙️ I’m currently working with **JavaScript**, **React.js**, **Node.js**, **MongoDB**, **PostgreSQL**, **Redux**, **Three.js**, **Bootstrap**, **CSS**, **HTML**
