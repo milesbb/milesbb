@@ -1,15 +1,12 @@
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://milesbb.tech">Miles</a></h1> -->
 <h1 align="center"><img height="130" alt="hello msg" src="https://res.cloudinary.com/dlskdxln3/image/upload/v1667252496/globechat/newierrrrrgif_gofmof.gif" /></h1>
 
-<p align="center">Software Developer/Full-Stack Engineer</p>
+<p align="center">Software Engineer</p>
 
-Fullstack developer currently studying at [EPICODE/Strive School](https://epicode.com/), constantly learning and developing myself. Have been coding since middle school and raring to learn more and contribute the skills I've built over the years to my own and other's open source projects. Background in biomechanics, computer science, engineering, and the arts.
+Junior Software Engineer currently working at [Aurora Energy Research](https://auroraer.com/), constantly learning and developing myself. Have been coding since middle school and raring to learn more and contribute the skills I've built over the years to my own and other's open source projects. Background in biomechanics, computer science, engineering, and the arts.
 
-- 🔭 I’m currently looking for work
 - ⚙️ I’m currently working with **JavaScript**, **React.js**, **Node.js**, **MongoDB**, **SQL**, **PostgreSQL**, **Sequelize**, **Redux**, **Three.js**, **Bootstrap**, **CSS**, **HTML**
 - 📄 Familiar with deploying on **Netlify**, **Cyclic**, **Github Pages**, **Heroku**
 - 🌱 I'm currently learning **React Native** and **Java**
 - ✨ Especially interested in Full-stack Web and Mobile Development, Meditech, and Fintech.
 - 📫 You can reach me at [my website](https://milesbb.tech) or on [LinkedIn](https://www.linkedin.com/in/milesbaileybraendgaard/)!
-
-[![Past Month Activity](https://activity-graph.herokuapp.com/graph?username=milesbb&theme=react-dark&custom_title=Past%20Month%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
