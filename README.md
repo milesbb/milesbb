@@ -3,7 +3,7 @@
 
 <p align="center">Software Engineer</p>
 
-Junior Software Engineer currently working at [Aurora Energy Research](https://auroraer.com/) (separate work github account, this is my personal), constantly learning and developing myself. Have been coding since middle school and raring to learn more and contribute the skills I've built over the years to my own and other's open source projects. Background in biomechanics, computer science, engineering, and the arts.
+Junior Software Engineer with a background in Prosthetics and Engineering currently working at [Aurora Energy Research](https://auroraer.com/) (separate work github account, this is my personal), constantly learning and developing myself. Have been coding since middle school and raring to learn more and contribute the skills I've built over the years to my own and other's open source projects.
 
 - ⚙️ I’m currently working with **TypeScript**, **JavaScript**, **React.js**, **Node.js**, **AWS**, **MongoDB**, **SQL**, **MySQL**, **PostgreSQL**, **Sequelize**, **Redux**, **Three.js**, **Bootstrap**, **Python**, **CSS**, **HTML**
 - 📄 Familiar with deploying on **Netlify**, **Cyclic**, **Github Pages**, **Heroku**
