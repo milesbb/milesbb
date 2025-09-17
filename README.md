@@ -13,5 +13,5 @@ Software Engineer with a background in Prosthetics and Engineering currently wor
 - 📄 Familiar with working with **CI/CD** and **Infrastructure-as-Code (IaC)** for AWS and database migrations (mostly worked with **flyway**). Am a sucker for a good pipeline!
 - 🌠 My main personal project currently is my playlist transfer website - check out the [backend here](https://github.com/milesbb/playlist-transfer-backend) and the [frontend here](https://github.com/milesbb/playlist-transfer-frontend)! You can read [my manifesto](https://github.com/milesbb/playlist-transfer-backend/blob/main/playlist-sharing-manifesto.md) on why we must rise up and break the stranglehold that Spotify, Apple Music, Big Music Inc. have over the music playlist industry!
 - 🌱 Otherwise, I'm currently learning and playing with C and lower level control languages within my prosthetics based mechatronics personal projects
-- ✨ Especially interested in Fintech, Meditech, and Language Technology. Though anything vaguely tech-y will pique my interest!
+- ✨ Especially interested in Fintech, Meditech, and Language Technology. Also anything history related or map based or both. Though anything vaguely tech-y will pique my interest!
 - 📫 You can reach me/learn more at [my website](https://milesbb.tech) or on [LinkedIn](https://www.linkedin.com/in/milesbaileybraendgaard/)!
